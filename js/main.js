@@ -116,11 +116,6 @@ function initComponents() {
 
   feather.replace();
   videoBtn();
-
-  //
-	// your custom plugins init here
-	//
-
 }
 
 
