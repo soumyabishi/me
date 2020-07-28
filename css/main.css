@@ -1587,7 +1587,6 @@ h6 {
   .footer.-type-2 .footer__social a {
     font-size: 1.125rem;
     margin-right: 1.25rem;
-    width: 100%;
   }
 }
 
@@ -1617,7 +1616,7 @@ h6 {
 
 @media (max-width: 575px) {
   .footer.-type-2 .footer__link {
-    font-size: 7vw;
+    font-size: 6vw;
   }
 }
 
